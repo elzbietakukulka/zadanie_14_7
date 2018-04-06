@@ -30,7 +30,7 @@ var App = React.createClass({
   render: function() {
     return (
       <div className={'app'}>
-        <ContactForm = {contactForm}></ContactForm>
+        <ContactForm contact = {contactForm}></ContactForm>
         <Contacts items = {contacts}></Contacts>
       </div>
       );
