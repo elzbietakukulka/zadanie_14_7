@@ -7,7 +7,7 @@ var Contact = React.createClass({
     return (
       <div className={'contactItem row'}>
         <div className={'col-4'}>
-          <img className={'contactImage'} src={'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'}> 
+          <img className={'contactImage'} src={'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'}></img> 
         </div>
         <div className={'col-8'}>
           <p className={'contactLabel'}>
